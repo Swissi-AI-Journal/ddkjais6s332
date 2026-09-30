@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper using the metadata below."
+title: "A regulatory-compliant AI and verification system for higher education under ESG-aligned constraints"
+type: article
+authors:
+  - family-names: "Kurz"
+    given-names: "Walter"
+    orcid: "https://orcid.org/0009-0006-8045-4775"
+  - family-names: "Malara"
+    given-names: "Michel"
+  - family-names: "Stricker"
+    given-names: "Wojtek"
+journal: Swissi AI Journal
+volume: "2025"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21901253"
+    description: Published paper DOI
+license: CC-BY-4.0
+url: "https://journal.swissi-ai.institute/en/doi/ddkjais6s332"

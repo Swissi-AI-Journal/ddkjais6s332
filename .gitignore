@@ -1,0 +1,8 @@
+source/*.aux
+source/*.bcf
+source/*.blg
+source/*.log
+source/*.out
+source/*.pdf
+source/*.run.xml
+source/*.toc

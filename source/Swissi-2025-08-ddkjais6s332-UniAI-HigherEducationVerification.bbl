@@ -1,0 +1,3005 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{aneca2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b63ad5a6257664ce7b53dbcd8240b708}{%
+           family={{Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA)}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{fullhash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{fullhashraw}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{bibnamehash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{authorbibnamehash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{authornamehash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{authorfullhash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{authorfullhashraw}{b63ad5a6257664ce7b53dbcd8240b708}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{National Agency for Quality Assessment and Accreditation of Spain}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.aneca.es
+      \endverb
+      \verb{url}
+      \verb https://www.aneca.es
+      \endverb
+    \endentry
+    \entry{fma2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=73abb8e716a58b9af3cf53fbdfc3626b}{%
+           family={{Austrian Financial Market Authority (FMA)}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{fullhash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{fullhashraw}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{bibnamehash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{authorbibnamehash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{authornamehash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{authorfullhash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{authorfullhashraw}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FMA Austria Official Website}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fma.gv.at/en/
+      \endverb
+      \verb{url}
+      \verb https://www.fma.gv.at/en/
+      \endverb
+    \endentry
+    \entry{bernacki2021systematic}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1c7d81154e1bbc0e1ed8649ab6006e43}{%
+           family={Bernacki},
+           familyi={B\bibinitperiod},
+           given={Matthew\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88716ca1f126d816761b1769265a1b8b}{%
+           family={Greene},
+           familyi={G\bibinitperiod},
+           given={Meghan\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79a395c95c3a0b4569184f3b4ef0ab83}{%
+           family={Lobczowski},
+           familyi={L\bibinitperiod},
+           given={Nikki\bibnamedelima G.},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f894d633e79082bd62e2a2041c57d95}
+      \strng{fullhash}{072f7cfd1d578be4c2a7acb22dc906de}
+      \strng{fullhashraw}{072f7cfd1d578be4c2a7acb22dc906de}
+      \strng{bibnamehash}{072f7cfd1d578be4c2a7acb22dc906de}
+      \strng{authorbibnamehash}{072f7cfd1d578be4c2a7acb22dc906de}
+      \strng{authornamehash}{9f894d633e79082bd62e2a2041c57d95}
+      \strng{authorfullhash}{072f7cfd1d578be4c2a7acb22dc906de}
+      \strng{authorfullhashraw}{072f7cfd1d578be4c2a7acb22dc906de}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Psychology Review}
+      \field{title}{A Systematic Review of Research on Personalized Learning: Personalized by Whom, to What, How, and for What Purpose(s)?}
+      \field{volume}{33}
+      \field{year}{2021}
+      \field{pages}{1675\bibrangedash 1715}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1007/s10648-021-09615-8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10648-021-09615-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10648-021-09615-8
+      \endverb
+    \endentry
+    \entry{eu2023csrd}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{EU Regulation}
+      \field{note}{In force since January 2023}
+      \field{title}{Corporate Sustainability Reporting Directive (CSRD)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022L2464
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022L2464
+      \endverb
+    \endentry
+    \entry{eu2018amld6}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive (EU) 2018/1673 on combating money laundering by criminal law (6th AMLD)}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1673
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1673
+      \endverb
+    \endentry
+    \entry{eu2022nis2}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive (EU) 2022/2555 on measures for a high common level of cybersecurity across the Union (NIS2)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555
+      \endverb
+    \endentry
+    \entry{eu2009emd2}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2009/110/EC on the taking up, pursuit and prudential supervision of the business of electronic money institutions (EMD2)}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110
+      \endverb
+    \endentry
+    \entry{eu2014mifid2}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2014/65/EU on Markets in Financial Instruments (MiFID II)}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065
+      \endverb
+    \endentry
+    \entry{nvao2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b328fec8fd855c7d6ba4ad82e2ef3c9}{%
+           family={{Dutch-Flemish Accreditation Organisation (NVAO)}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{fullhash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{fullhashraw}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{bibnamehash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{authorbibnamehash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{authornamehash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{authorfullhash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{authorfullhashraw}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quality Assurance of Higher Education in the Netherlands and Flanders}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.nvao.net
+      \endverb
+      \verb{url}
+      \verb https://www.nvao.net
+      \endverb
+    \endentry
+    \entry{enqa2015esg}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04a2b2b3f7d13b54077a6e5a399a17ff}{%
+           family={{European Association for Quality Assurance in Higher Education (ENQA)}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{fullhash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{fullhashraw}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{bibnamehash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{authorbibnamehash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{authornamehash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{authorfullhash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{authorfullhashraw}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.eqar.eu/assets/uploads/2018/04/ESG_2015.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eqar.eu/assets/uploads/2018/04/ESG_2015.pdf
+      \endverb
+    \endentry
+    \entry{ec2015ects}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Publications Office of the European Union}
+      \field{title}{European Credit Transfer and Accumulation System (ECTS) Users’ Guide}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://education.ec.europa.eu/sites/default/files/document-library-docs/ects-users-guide_en.pdf
+      \endverb
+      \verb{url}
+      \verb https://education.ec.europa.eu/sites/default/files/document-library-docs/ects-users-guide_en.pdf
+      \endverb
+    \endentry
+    \entry{ec2017eqf}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Official Journal of the European Union}
+      \field{title}{Recommendation on the European Qualifications Framework for lifelong learning}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017H0615%2801%29
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017H0615%2801%29
+      \endverb
+    \endentry
+    \entry{ehea2020bologna}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e46dc32501236b834e4cd0e6417b4977}{%
+           family={{European Higher Education Area}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{fullhash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{fullhashraw}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{bibnamehash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{authorbibnamehash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{authornamehash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{authorfullhash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{authorfullhashraw}{e46dc32501236b834e4cd0e6417b4977}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Publications Office of the European Union}
+      \field{title}{Bologna Process Implementation Report 2020}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://eurydice.eacea.ec.europa.eu/publications/european-higher-education-area-2020-bologna-process-implementation-report
+      \endverb
+      \verb{url}
+      \verb https://eurydice.eacea.ec.europa.eu/publications/european-higher-education-area-2020-bologna-process-implementation-report
+      \endverb
+    \endentry
+    \entry{esma2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=167707915168244eaa84cd92c06f4df5}{%
+           family={{European Securities and Markets Authority (ESMA)}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{167707915168244eaa84cd92c06f4df5}
+      \strng{fullhash}{167707915168244eaa84cd92c06f4df5}
+      \strng{fullhashraw}{167707915168244eaa84cd92c06f4df5}
+      \strng{bibnamehash}{167707915168244eaa84cd92c06f4df5}
+      \strng{authorbibnamehash}{167707915168244eaa84cd92c06f4df5}
+      \strng{authornamehash}{167707915168244eaa84cd92c06f4df5}
+      \strng{authorfullhash}{167707915168244eaa84cd92c06f4df5}
+      \strng{authorfullhashraw}{167707915168244eaa84cd92c06f4df5}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ESMA Overview and Functions}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.esma.europa.eu/
+      \endverb
+      \verb{url}
+      \verb https://www.esma.europa.eu/
+      \endverb
+    \endentry
+    \entry{eu2016gdpr}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Official Journal of the European Union}
+      \field{title}{General Data Protection Regulation (EU) 2016/679}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
+      \endverb
+    \endentry
+    \entry{eu2024aiact}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Official Journal of the European Union}
+      \field{title}{Regulation of the European Parliament and of the Council laying down harmonised rules on Artificial Intelligence (AI Act)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206
+      \endverb
+    \endentry
+    \entry{fatf2023guidance}{misc}{}{}
+      \list{organization}{1}{%
+        {Financial Action Task Force}%
+      }
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{FATF Guidance on Virtual Assets and Virtual Asset Service Providers}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.fatf-gafi.org/content/dam/fatf-gafi/guidance/Updated-Guidance-VA-VASP.pdf.coredownload.inline.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.fatf-gafi.org/content/dam/fatf-gafi/guidance/Updated-Guidance-VA-VASP.pdf.coredownload.inline.pdf
+      \endverb
+    \endentry
+    \entry{ch2016fima}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bbb671f4726f0e1083545bc6b72da8b}{%
+           family={{Federal Assembly of the Swiss Confederation}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{bibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorbibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authornamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Financial Market Infrastructures and Market Conduct in Securities and Derivatives Trading (Financial Market Infrastructure Act, FMIA)}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en
+      \endverb
+    \endentry
+    \entry{ch2018finsa}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bbb671f4726f0e1083545bc6b72da8b}{%
+           family={{Federal Assembly of the Swiss Confederation}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{bibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorbibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authornamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Financial Services (Financial Services Act, FinSA)}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/2019/758/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/2019/758/en
+      \endverb
+    \endentry
+    \entry{ch2021amla}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bbb671f4726f0e1083545bc6b72da8b}{%
+           family={{Federal Assembly of the Swiss Confederation}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{bibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorbibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authornamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \field{extraname}{3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Combating Money Laundering and Terrorist Financing (Anti-Money Laundering Act, AMLA)}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en
+      \endverb
+    \endentry
+    \entry{ch2020fadp}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba38978e3ff8c2212be03d690a4efbc5}{%
+           family={{Federal Council of Switzerland}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{fullhash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{fullhashraw}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{bibnamehash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{authorbibnamehash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{authornamehash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{authorfullhash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{authorfullhashraw}{ba38978e3ff8c2212be03d690a4efbc5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Swiss Federal Chancellery}
+      \field{title}{Federal Act on Data Protection (FADP)}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/2022/491/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/2022/491/en
+      \endverb
+    \endentry
+    \entry{bafin2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03473aec6a038a63ce06d41fd79c0e15}{%
+           family={{Federal Financial Supervisory Authority (BaFin)}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{fullhash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{fullhashraw}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{bibnamehash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{authorbibnamehash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{authornamehash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{authorfullhash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{authorfullhashraw}{03473aec6a038a63ce06d41fd79c0e15}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BaFin Homepage}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.bafin.de/EN/
+      \endverb
+      \verb{url}
+      \verb https://www.bafin.de/EN/
+      \endverb
+    \endentry
+    \entry{fedus2022switch}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=749d4fb83777d7b74c0ee8de5a510f41}{%
+           family={Fedus},
+           familyi={F\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91aafc93e68e8c6a55e8cd804c2acaf2}{%
+           family={Zoph},
+           familyi={Z\bibinitperiod},
+           given={Barret},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62efade83d70f0323fe248755e6c90c5}{%
+           family={Shazeer},
+           familyi={S\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{27fc098359173279b89e523ea4cb07c6}
+      \strng{fullhash}{3a4d4f3ef7220737c921ca534c5e4379}
+      \strng{fullhashraw}{3a4d4f3ef7220737c921ca534c5e4379}
+      \strng{bibnamehash}{3a4d4f3ef7220737c921ca534c5e4379}
+      \strng{authorbibnamehash}{3a4d4f3ef7220737c921ca534c5e4379}
+      \strng{authornamehash}{27fc098359173279b89e523ea4cb07c6}
+      \strng{authorfullhash}{3a4d4f3ef7220737c921ca534c5e4379}
+      \strng{authorfullhashraw}{3a4d4f3ef7220737c921ca534c5e4379}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint}
+      \field{title}{Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity}
+      \field{year}{2022}
+      \verb{eprint}
+      \verb arXiv:2101.03961
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2101.03961
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2101.03961
+      \endverb
+    \endentry
+    \entry{flanery2023web3edu}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=135ecaa97a95aabd4a27f1d62e7ec207}{%
+           family={Flanery},
+           familyi={F\bibinitperiod},
+           given={Sarah\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e708e6c70a44734b7e594e5a57d1840}{%
+           family={Mohanasundar},
+           familyi={M\bibinitperiod},
+           given={Kamalesh},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25652a757fac7a644c73a80249568e54}{%
+           family={Chamon},
+           familyi={C\bibinitperiod},
+           given={Christiana},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7ccdab20628aac9f6ce58a297d87102}{%
+           family={Kotikela},
+           familyi={K\bibinitperiod},
+           given={Srujan\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12823765c4a8bf2f5b288afe5562bced}{%
+           family={Quek},
+           familyi={Q\bibinitperiod},
+           given={Francis\bibnamedelima K.},
+           giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f400fd33da6921e1547f697523046136}
+      \strng{fullhash}{06095b488663f83adc504f86069a6e1b}
+      \strng{fullhashraw}{06095b488663f83adc504f86069a6e1b}
+      \strng{bibnamehash}{06095b488663f83adc504f86069a6e1b}
+      \strng{authorbibnamehash}{06095b488663f83adc504f86069a6e1b}
+      \strng{authornamehash}{f400fd33da6921e1547f697523046136}
+      \strng{authorfullhash}{06095b488663f83adc504f86069a6e1b}
+      \strng{authorfullhashraw}{06095b488663f83adc504f86069a6e1b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2312.12268}
+      \field{title}{Web 3.0 and a Decentralized Approach to Education}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2312.12268
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2312.12268
+      \endverb
+    \endentry
+    \entry{germanaccreditation2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c3642588d21c40be808188df9a1cd0f}{%
+           family={{German Accreditation Council}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{fullhash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{fullhashraw}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{bibnamehash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{authorbibnamehash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{authornamehash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{authorfullhash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{authorfullhashraw}{9c3642588d21c40be808188df9a1cd0f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Accreditation in Germany under the Interstate Study Accreditation Treaty}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.akkreditierungsrat.de
+      \endverb
+      \verb{url}
+      \verb https://www.akkreditierungsrat.de
+      \endverb
+    \endentry
+    \entry{grech2017blockcerts}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=41c277cc9f7aab3421ba5c55ac40260e}{%
+           family={Grech},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f356aa1b18a34726933b23241b0bd76}{%
+           family={Camilleri},
+           familyi={C\bibinitperiod},
+           given={Anthony\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Joint Research Centre, European Commission}%
+      }
+      \strng{namehash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{fullhash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{fullhashraw}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{bibnamehash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{authorbibnamehash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{authornamehash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{authorfullhash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{authorfullhashraw}{926aae20709d8a5d2be6d49a1baee8a9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{JRC108255}
+      \field{title}{Blockchain in Education}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://publications.jrc.ec.europa.eu/repository/handle/JRC108255
+      \endverb
+      \verb{url}
+      \verb https://publications.jrc.ec.europa.eu/repository/handle/JRC108255
+      \endverb
+    \endentry
+    \entry{lee2024esgai}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=638329b18fa250e20edb46f05b297967}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sung\bibnamedelima Une},
+           giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aac214a58b2f585f7161faa09b117fcc}{%
+           family={Perera},
+           familyi={P\bibinitperiod},
+           given={Harsha},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ea6157adaa214ea9a0734bb53dd8492}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6527b9852f86da250f6c05f9a2ac4e6f}
+      \strng{fullhash}{8f2d55a8a44787fb1face46e24ff942c}
+      \strng{fullhashraw}{8f2d55a8a44787fb1face46e24ff942c}
+      \strng{bibnamehash}{8f2d55a8a44787fb1face46e24ff942c}
+      \strng{authorbibnamehash}{8f2d55a8a44787fb1face46e24ff942c}
+      \strng{authornamehash}{6527b9852f86da250f6c05f9a2ac4e6f}
+      \strng{authorfullhash}{8f2d55a8a44787fb1face46e24ff942c}
+      \strng{authorfullhashraw}{8f2d55a8a44787fb1face46e24ff942c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2408.00965}
+      \field{title}{Integrating ESG and AI: A Comprehensive Responsible AI Assessment Framework}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2408.00965
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2408.00965
+      \endverb
+    \endentry
+    \entry{okubo2025cime}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9b72d23c499d8da3cb1e70f68d435751}{%
+           family={Okubo},
+           familyi={O\bibinitperiod},
+           given={Tomoko},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {OECD Publishing}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{fullhash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{fullhashraw}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{bibnamehash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{authorbibnamehash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{authornamehash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{authorfullhash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{authorfullhashraw}{9b72d23c499d8da3cb1e70f68d435751}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{325}
+      \field{title}{Collective Intelligence Model for Education (CIME)}
+      \field{type}{OECD Education Working Papers}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1787/c673cc25-en
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1787/c673cc25-en
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1787/c673cc25-en
+      \endverb
+    \endentry
+    \entry{okubo2023aiscoring}{report}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=9b72d23c499d8da3cb1e70f68d435751}{%
+           family={Okubo},
+           familyi={O\bibinitperiod},
+           given={Tomoko},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59ee2f5b0d0fc08e6a1ab63259d3bce0}{%
+           family={Watanabe},
+           familyi={W\bibinitperiod},
+           given={Masanori},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e0e5e6f3e34de85b2e2f4c09ea39be2}{%
+           family={Yamaguchi},
+           familyi={Y\bibinitperiod},
+           given={Hiroaki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afc1f93f9179b3717ffed5bff8db1c19}{%
+           family={Hasegawa},
+           familyi={H\bibinitperiod},
+           given={Yuki},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {OECD Publishing}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{5db4f619d87a652b8fa0b006afe489d9}
+      \strng{fullhash}{f03a557f3916a577e55fa14469f09c9a}
+      \strng{fullhashraw}{f03a557f3916a577e55fa14469f09c9a}
+      \strng{bibnamehash}{f03a557f3916a577e55fa14469f09c9a}
+      \strng{authorbibnamehash}{f03a557f3916a577e55fa14469f09c9a}
+      \strng{authornamehash}{5db4f619d87a652b8fa0b006afe489d9}
+      \strng{authorfullhash}{f03a557f3916a577e55fa14469f09c9a}
+      \strng{authorfullhashraw}{f03a557f3916a577e55fa14469f09c9a}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Available from: https://doi.org/10.1787/9918e1fb-en}
+      \field{number}{287}
+      \field{title}{AI scoring for international large-scale assessments using a deep learning model and multilingual data}
+      \field{type}{OECD Education Working Papers}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1787/9918e1fb-en
+      \endverb
+    \endentry
+    \entry{perera2024esgrai}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aac214a58b2f585f7161faa09b117fcc}{%
+           family={Perera},
+           familyi={P\bibinitperiod},
+           given={Harsha},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=638329b18fa250e20edb46f05b297967}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sung\bibnamedelima Une},
+           giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{fullhash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{fullhashraw}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{bibnamehash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{authorbibnamehash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{authornamehash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{authorfullhash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{authorfullhashraw}{be2f3c034f77faec3b54a36e52939c10}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2409.10520}
+      \field{title}{Achieving Responsible AI through ESG: Insights and Recommendations from Industry Engagement}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2409.10520
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2409.10520
+      \endverb
+    \endentry
+    \entry{eu2020taxonomy}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{EU Regulation}
+      \field{note}{Applicable to financial and non-financial reporting}
+      \field{title}{Regulation (EU) 2020/852 on the Establishment of a Framework to Facilitate Sustainable Investment (EU Taxonomy Regulation)}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2020/852/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2020/852/oj
+      \endverb
+    \endentry
+    \entry{eu2022dora}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2022/2554 on Digital Operational Resilience for the Financial Sector (DORA)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554
+      \endverb
+    \endentry
+    \entry{eu2023mica}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2023/1114 on Markets in Crypto-Assets (MiCA)}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114
+      \endverb
+    \endentry
+    \entry{eu2013crr}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms (CRR)}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575
+      \endverb
+    \endentry
+    \entry{rodriguez2025abcd}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3bc8693f80616f8489c4f1031e84138d}{%
+           family={Rodriguez},
+           familyi={R\bibinitperiod},
+           given={Joel\bibnamedelimb Mark\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=897feddd2c931526a3033191a49660fb}{%
+           family={Austria},
+           familyi={A\bibinitperiod},
+           given={Genesis\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfbb2cd6aa3f45f698d11d80e16b6be8}{%
+           family={Millar},
+           familyi={M\bibinitperiod},
+           given={Glen\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee02cb49fb80a077dcce1e8a6cb8ed12}
+      \strng{fullhash}{46c48081b12d7f7172ca0d16acf244c7}
+      \strng{fullhashraw}{46c48081b12d7f7172ca0d16acf244c7}
+      \strng{bibnamehash}{46c48081b12d7f7172ca0d16acf244c7}
+      \strng{authorbibnamehash}{46c48081b12d7f7172ca0d16acf244c7}
+      \strng{authornamehash}{ee02cb49fb80a077dcce1e8a6cb8ed12}
+      \strng{authorfullhash}{46c48081b12d7f7172ca0d16acf244c7}
+      \strng{authorfullhashraw}{46c48081b12d7f7172ca0d16acf244c7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2503.05722}
+      \field{title}{The Role of AI, Blockchain, Cloud, and Data (ABCD) in Enhancing Learning Assessments of College Students}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2503.05722
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2503.05722
+      \endverb
+    \endentry
+    \entry{sun2021ernie3}{misc}{}{}
+      \name{author}{22}{}{%
+        {{un=0,uniquepart=base,hash=17b6a43f5598c7efd897f9d254090fdd}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11599e8d7d5a35b7e266b6ded2ad4abe}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shuohuan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=573e51b4603498ab07adb0e986bd2acf}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Shikun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c4edff3923cadc3dab73c650ddaa6f8}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Siyu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ce296e2ac0d225129d8fcdbf18fbbbc}{%
+           family={Pang},
+           familyi={P\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16d38314451d0cf889a05fa65836309b}{%
+           family={Shang},
+           familyi={S\bibinitperiod},
+           given={Junyuan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61fac4d57e832c0a0a325948f8f805a9}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jiaxiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa032536dad497b014112c5be18da45b}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xuyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a0e5a3eefe6f6cf2565cf6746b7aa9a}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yanbin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3598c3bc0ebb61a06ff5015ffb15de9}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yuxiang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fbe8f2b7faec97fb60be9d0f2d40264}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Weixin},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe41924b320b8bbfddec0b28286ea6df}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Zhihua},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f78b15a1bdb30d06a4d409dadf370ba8}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Weibao},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=860285407f5f2e2f5f1a498344a2383a}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Jianzhong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2727d53a958b3aa156f3055a318da13f}{%
+           family={Shang},
+           familyi={S\bibinitperiod},
+           given={Zhizhou},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5918631c2d1cdd4eaddbfc27a01281ae}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0e0d23e2d09e45e6f51cc2bcea6d9f9}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d16f1c9da9bd6a7a8a510900c238b98}{%
+           family={Ouyang},
+           familyi={O\bibinitperiod},
+           given={Xuan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=872162d8379d299466fdf1db61807791}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Dianhai},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d761d577d421d6a0566473ae6b8b342f}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32cdecf5b1a19aa36ab641b9d9a3cc04}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Hua},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71e226050f533b77aad3b866c1b7ef0a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haifeng},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a3fba728653ba3d86c488decf1214c47}
+      \strng{fullhash}{1a5d366685bec43346adb00e17fe61d8}
+      \strng{fullhashraw}{1a5d366685bec43346adb00e17fe61d8}
+      \strng{bibnamehash}{972e6a74fcd597471b89b3991e45b672}
+      \strng{authorbibnamehash}{972e6a74fcd597471b89b3991e45b672}
+      \strng{authornamehash}{a3fba728653ba3d86c488decf1214c47}
+      \strng{authorfullhash}{1a5d366685bec43346adb00e17fe61d8}
+      \strng{authorfullhashraw}{1a5d366685bec43346adb00e17fe61d8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{arXiv preprint arXiv:2107.02137}
+      \field{title}{ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2107.02137
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2107.02137
+      \endverb
+    \endentry
+    \entry{aaq2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a4e9e9ca4a44cf00d1868afd3e5c596}{%
+           family={{Swiss Agency of Accreditation and Quality Assurance (AAQ)}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{fullhash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{fullhashraw}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{bibnamehash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{authorbibnamehash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{authornamehash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{authorfullhash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{authorfullhashraw}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Accreditation and Quality Assurance in Swiss Higher Education}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://aaq.ch/en
+      \endverb
+      \verb{url}
+      \verb https://aaq.ch/en
+      \endverb
+    \endentry
+    \entry{heda2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=948f882b7940be41c08133779fe95bea}{%
+           family={{Swiss Confederation}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{948f882b7940be41c08133779fe95bea}
+      \strng{fullhash}{948f882b7940be41c08133779fe95bea}
+      \strng{fullhashraw}{948f882b7940be41c08133779fe95bea}
+      \strng{bibnamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorbibnamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authornamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorfullhash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorfullhashraw}{948f882b7940be41c08133779fe95bea}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Funding and Coordination of the Swiss Higher Education Sector (HEdA)}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://lex.weblaw.ch/lex.php?norm_id=414.20&source=sr&lex_id=11863#art_4
+      \endverb
+      \verb{url}
+      \verb https://lex.weblaw.ch/lex.php?norm_id=414.20&source=sr&lex_id=11863#art_4
+      \endverb
+    \endentry
+    \entry{finma2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=919ff9dc873aaed1adf9ad9ea3588c20}{%
+           family={{Swiss Financial Market Supervisory Authority (FINMA)}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{fullhash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{fullhashraw}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{bibnamehash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{authorbibnamehash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{authornamehash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{authorfullhash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{authorfullhashraw}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FINMA Official Portal}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.finma.ch/en/
+      \endverb
+      \verb{url}
+      \verb https://www.finma.ch/en/
+      \endverb
+    \endentry
+    \entry{wang2021zerolabel}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e0662b7b8be5a7a0b1581114b2c86f34}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zirui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c37c105de9c6904a9ee348d6f10c603f}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Adams\bibnamedelima Wei},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=199f475d073184300c78ea1ea7d001e1}{%
+           family={Firat},
+           familyi={F\bibinitperiod},
+           given={Orhan},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2923de2da7f9b32b957552e414b6bc16}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{51c72de9785f95f6dd24562f9801388f}
+      \strng{fullhash}{b12606f739717a5fd97c7532db66b4d0}
+      \strng{fullhashraw}{b12606f739717a5fd97c7532db66b4d0}
+      \strng{bibnamehash}{b12606f739717a5fd97c7532db66b4d0}
+      \strng{authorbibnamehash}{b12606f739717a5fd97c7532db66b4d0}
+      \strng{authornamehash}{51c72de9785f95f6dd24562f9801388f}
+      \strng{authorfullhash}{b12606f739717a5fd97c7532db66b4d0}
+      \strng{authorfullhashraw}{b12606f739717a5fd97c7532db66b4d0}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{arXiv preprint arXiv:2109.09193}
+      \field{title}{Towards Zero-Label Language Learning}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2109.09193
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2109.09193
+      \endverb
+    \endentry
+    \entry{xue2020mt5}{misc}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=144676bc232b516256fd41200c09d416}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Linting},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a8ed325a5622cf4ec06f17777376a1b}{%
+           family={Constant},
+           familyi={C\bibinitperiod},
+           given={Noah},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=243c03e5ae8031582d6af9fcbc70f629}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a77438e51ab971039d957f4d8d62ebd}{%
+           family={Kale},
+           familyi={K\bibinitperiod},
+           given={Mihir},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fdea7728f40679d54135ffed015aec3}{%
+           family={Al-Rfou},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Rami},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8d53c5e69689a853012ba64115a490f}{%
+           family={Siddhant},
+           familyi={S\bibinitperiod},
+           given={Aditya},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21bfabfdcd37a9f9f2e4c25b05f8184f}{%
+           family={Barua},
+           familyi={B\bibinitperiod},
+           given={Aditya},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81a5a94e2388c149a73a86381db45e07}{%
+           family={Raffel},
+           familyi={R\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aef8c1534449c0ecd4e1b95a02de5fa0}
+      \strng{fullhash}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \strng{fullhashraw}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \strng{bibnamehash}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \strng{authorbibnamehash}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \strng{authornamehash}{aef8c1534449c0ecd4e1b95a02de5fa0}
+      \strng{authorfullhash}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \strng{authorfullhashraw}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{arXiv preprint arXiv:2010.11934}
+      \field{title}{mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2010.11934
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2010.11934
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{aneca2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b63ad5a6257664ce7b53dbcd8240b708}{%
+           family={{Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA)}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{fullhash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{fullhashraw}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{bibnamehash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{authorbibnamehash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{authornamehash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{authorfullhash}{b63ad5a6257664ce7b53dbcd8240b708}
+      \strng{authorfullhashraw}{b63ad5a6257664ce7b53dbcd8240b708}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{National Agency for Quality Assessment and Accreditation of Spain}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.aneca.es
+      \endverb
+      \verb{url}
+      \verb https://www.aneca.es
+      \endverb
+    \endentry
+    \entry{fma2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=73abb8e716a58b9af3cf53fbdfc3626b}{%
+           family={{Austrian Financial Market Authority (FMA)}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{fullhash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{fullhashraw}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{bibnamehash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{authorbibnamehash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{authornamehash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{authorfullhash}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \strng{authorfullhashraw}{73abb8e716a58b9af3cf53fbdfc3626b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FMA Austria Official Website}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fma.gv.at/en/
+      \endverb
+      \verb{url}
+      \verb https://www.fma.gv.at/en/
+      \endverb
+    \endentry
+    \entry{bernacki2021systematic}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1c7d81154e1bbc0e1ed8649ab6006e43}{%
+           family={Bernacki},
+           familyi={B\bibinitperiod},
+           given={Matthew\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88716ca1f126d816761b1769265a1b8b}{%
+           family={Greene},
+           familyi={G\bibinitperiod},
+           given={Meghan\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79a395c95c3a0b4569184f3b4ef0ab83}{%
+           family={Lobczowski},
+           familyi={L\bibinitperiod},
+           given={Nikki\bibnamedelima G.},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f894d633e79082bd62e2a2041c57d95}
+      \strng{fullhash}{072f7cfd1d578be4c2a7acb22dc906de}
+      \strng{fullhashraw}{072f7cfd1d578be4c2a7acb22dc906de}
+      \strng{bibnamehash}{072f7cfd1d578be4c2a7acb22dc906de}
+      \strng{authorbibnamehash}{072f7cfd1d578be4c2a7acb22dc906de}
+      \strng{authornamehash}{9f894d633e79082bd62e2a2041c57d95}
+      \strng{authorfullhash}{072f7cfd1d578be4c2a7acb22dc906de}
+      \strng{authorfullhashraw}{072f7cfd1d578be4c2a7acb22dc906de}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Psychology Review}
+      \field{title}{A Systematic Review of Research on Personalized Learning: Personalized by Whom, to What, How, and for What Purpose(s)?}
+      \field{volume}{33}
+      \field{year}{2021}
+      \field{pages}{1675\bibrangedash 1715}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1007/s10648-021-09615-8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10648-021-09615-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10648-021-09615-8
+      \endverb
+    \endentry
+    \entry{eu2023csrd}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{EU Regulation}
+      \field{note}{In force since January 2023}
+      \field{title}{Corporate Sustainability Reporting Directive (CSRD)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022L2464
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022L2464
+      \endverb
+    \endentry
+    \entry{eu2018amld6}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive (EU) 2018/1673 on combating money laundering by criminal law (6th AMLD)}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1673
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1673
+      \endverb
+    \endentry
+    \entry{eu2022nis2}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive (EU) 2022/2555 on measures for a high common level of cybersecurity across the Union (NIS2)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555
+      \endverb
+    \endentry
+    \entry{eu2009emd2}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2009/110/EC on the taking up, pursuit and prudential supervision of the business of electronic money institutions (EMD2)}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110
+      \endverb
+    \endentry
+    \entry{eu2014mifid2}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2014/65/EU on Markets in Financial Instruments (MiFID II)}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065
+      \endverb
+    \endentry
+    \entry{nvao2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b328fec8fd855c7d6ba4ad82e2ef3c9}{%
+           family={{Dutch-Flemish Accreditation Organisation (NVAO)}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{fullhash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{fullhashraw}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{bibnamehash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{authorbibnamehash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{authornamehash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{authorfullhash}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \strng{authorfullhashraw}{6b328fec8fd855c7d6ba4ad82e2ef3c9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quality Assurance of Higher Education in the Netherlands and Flanders}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.nvao.net
+      \endverb
+      \verb{url}
+      \verb https://www.nvao.net
+      \endverb
+    \endentry
+    \entry{enqa2015esg}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04a2b2b3f7d13b54077a6e5a399a17ff}{%
+           family={{European Association for Quality Assurance in Higher Education (ENQA)}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{fullhash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{fullhashraw}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{bibnamehash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{authorbibnamehash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{authornamehash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{authorfullhash}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \strng{authorfullhashraw}{04a2b2b3f7d13b54077a6e5a399a17ff}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.eqar.eu/assets/uploads/2018/04/ESG_2015.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eqar.eu/assets/uploads/2018/04/ESG_2015.pdf
+      \endverb
+    \endentry
+    \entry{ec2015ects}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Publications Office of the European Union}
+      \field{title}{European Credit Transfer and Accumulation System (ECTS) Users’ Guide}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://education.ec.europa.eu/sites/default/files/document-library-docs/ects-users-guide_en.pdf
+      \endverb
+      \verb{url}
+      \verb https://education.ec.europa.eu/sites/default/files/document-library-docs/ects-users-guide_en.pdf
+      \endverb
+    \endentry
+    \entry{ec2017eqf}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Official Journal of the European Union}
+      \field{title}{Recommendation on the European Qualifications Framework for lifelong learning}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017H0615%2801%29
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017H0615%2801%29
+      \endverb
+    \endentry
+    \entry{ehea2020bologna}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e46dc32501236b834e4cd0e6417b4977}{%
+           family={{European Higher Education Area}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{fullhash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{fullhashraw}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{bibnamehash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{authorbibnamehash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{authornamehash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{authorfullhash}{e46dc32501236b834e4cd0e6417b4977}
+      \strng{authorfullhashraw}{e46dc32501236b834e4cd0e6417b4977}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Publications Office of the European Union}
+      \field{title}{Bologna Process Implementation Report 2020}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://eurydice.eacea.ec.europa.eu/publications/european-higher-education-area-2020-bologna-process-implementation-report
+      \endverb
+      \verb{url}
+      \verb https://eurydice.eacea.ec.europa.eu/publications/european-higher-education-area-2020-bologna-process-implementation-report
+      \endverb
+    \endentry
+    \entry{esma2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=167707915168244eaa84cd92c06f4df5}{%
+           family={{European Securities and Markets Authority (ESMA)}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{167707915168244eaa84cd92c06f4df5}
+      \strng{fullhash}{167707915168244eaa84cd92c06f4df5}
+      \strng{fullhashraw}{167707915168244eaa84cd92c06f4df5}
+      \strng{bibnamehash}{167707915168244eaa84cd92c06f4df5}
+      \strng{authorbibnamehash}{167707915168244eaa84cd92c06f4df5}
+      \strng{authornamehash}{167707915168244eaa84cd92c06f4df5}
+      \strng{authorfullhash}{167707915168244eaa84cd92c06f4df5}
+      \strng{authorfullhashraw}{167707915168244eaa84cd92c06f4df5}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ESMA Overview and Functions}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.esma.europa.eu/
+      \endverb
+      \verb{url}
+      \verb https://www.esma.europa.eu/
+      \endverb
+    \endentry
+    \entry{eu2016gdpr}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Official Journal of the European Union}
+      \field{title}{General Data Protection Regulation (EU) 2016/679}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
+      \endverb
+    \endentry
+    \entry{eu2024aiact}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Official Journal of the European Union}
+      \field{title}{Regulation of the European Parliament and of the Council laying down harmonised rules on Artificial Intelligence (AI Act)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206
+      \endverb
+    \endentry
+    \entry{fatf2023guidance}{misc}{}{}
+      \list{organization}{1}{%
+        {Financial Action Task Force}%
+      }
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{FATF Guidance on Virtual Assets and Virtual Asset Service Providers}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.fatf-gafi.org/content/dam/fatf-gafi/guidance/Updated-Guidance-VA-VASP.pdf.coredownload.inline.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.fatf-gafi.org/content/dam/fatf-gafi/guidance/Updated-Guidance-VA-VASP.pdf.coredownload.inline.pdf
+      \endverb
+    \endentry
+    \entry{ch2016fima}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bbb671f4726f0e1083545bc6b72da8b}{%
+           family={{Federal Assembly of the Swiss Confederation}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{bibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorbibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authornamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Financial Market Infrastructures and Market Conduct in Securities and Derivatives Trading (Financial Market Infrastructure Act, FMIA)}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en
+      \endverb
+    \endentry
+    \entry{ch2018finsa}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bbb671f4726f0e1083545bc6b72da8b}{%
+           family={{Federal Assembly of the Swiss Confederation}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{bibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorbibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authornamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Financial Services (Financial Services Act, FinSA)}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/2019/758/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/2019/758/en
+      \endverb
+    \endentry
+    \entry{ch2021amla}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bbb671f4726f0e1083545bc6b72da8b}{%
+           family={{Federal Assembly of the Swiss Confederation}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{fullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{bibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorbibnamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authornamehash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhash}{0bbb671f4726f0e1083545bc6b72da8b}
+      \strng{authorfullhashraw}{0bbb671f4726f0e1083545bc6b72da8b}
+      \field{extraname}{3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Combating Money Laundering and Terrorist Financing (Anti-Money Laundering Act, AMLA)}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en
+      \endverb
+    \endentry
+    \entry{ch2020fadp}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba38978e3ff8c2212be03d690a4efbc5}{%
+           family={{Federal Council of Switzerland}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{fullhash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{fullhashraw}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{bibnamehash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{authorbibnamehash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{authornamehash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{authorfullhash}{ba38978e3ff8c2212be03d690a4efbc5}
+      \strng{authorfullhashraw}{ba38978e3ff8c2212be03d690a4efbc5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Swiss Federal Chancellery}
+      \field{title}{Federal Act on Data Protection (FADP)}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/2022/491/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/2022/491/en
+      \endverb
+    \endentry
+    \entry{bafin2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03473aec6a038a63ce06d41fd79c0e15}{%
+           family={{Federal Financial Supervisory Authority (BaFin)}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{fullhash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{fullhashraw}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{bibnamehash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{authorbibnamehash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{authornamehash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{authorfullhash}{03473aec6a038a63ce06d41fd79c0e15}
+      \strng{authorfullhashraw}{03473aec6a038a63ce06d41fd79c0e15}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BaFin Homepage}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.bafin.de/EN/
+      \endverb
+      \verb{url}
+      \verb https://www.bafin.de/EN/
+      \endverb
+    \endentry
+    \entry{fedus2022switch}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=749d4fb83777d7b74c0ee8de5a510f41}{%
+           family={Fedus},
+           familyi={F\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91aafc93e68e8c6a55e8cd804c2acaf2}{%
+           family={Zoph},
+           familyi={Z\bibinitperiod},
+           given={Barret},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62efade83d70f0323fe248755e6c90c5}{%
+           family={Shazeer},
+           familyi={S\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{27fc098359173279b89e523ea4cb07c6}
+      \strng{fullhash}{3a4d4f3ef7220737c921ca534c5e4379}
+      \strng{fullhashraw}{3a4d4f3ef7220737c921ca534c5e4379}
+      \strng{bibnamehash}{3a4d4f3ef7220737c921ca534c5e4379}
+      \strng{authorbibnamehash}{3a4d4f3ef7220737c921ca534c5e4379}
+      \strng{authornamehash}{27fc098359173279b89e523ea4cb07c6}
+      \strng{authorfullhash}{3a4d4f3ef7220737c921ca534c5e4379}
+      \strng{authorfullhashraw}{3a4d4f3ef7220737c921ca534c5e4379}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint}
+      \field{title}{Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity}
+      \field{year}{2022}
+      \verb{eprint}
+      \verb arXiv:2101.03961
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2101.03961
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2101.03961
+      \endverb
+    \endentry
+    \entry{flanery2023web3edu}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=135ecaa97a95aabd4a27f1d62e7ec207}{%
+           family={Flanery},
+           familyi={F\bibinitperiod},
+           given={Sarah\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e708e6c70a44734b7e594e5a57d1840}{%
+           family={Mohanasundar},
+           familyi={M\bibinitperiod},
+           given={Kamalesh},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25652a757fac7a644c73a80249568e54}{%
+           family={Chamon},
+           familyi={C\bibinitperiod},
+           given={Christiana},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7ccdab20628aac9f6ce58a297d87102}{%
+           family={Kotikela},
+           familyi={K\bibinitperiod},
+           given={Srujan\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12823765c4a8bf2f5b288afe5562bced}{%
+           family={Quek},
+           familyi={Q\bibinitperiod},
+           given={Francis\bibnamedelima K.},
+           giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f400fd33da6921e1547f697523046136}
+      \strng{fullhash}{06095b488663f83adc504f86069a6e1b}
+      \strng{fullhashraw}{06095b488663f83adc504f86069a6e1b}
+      \strng{bibnamehash}{06095b488663f83adc504f86069a6e1b}
+      \strng{authorbibnamehash}{06095b488663f83adc504f86069a6e1b}
+      \strng{authornamehash}{f400fd33da6921e1547f697523046136}
+      \strng{authorfullhash}{06095b488663f83adc504f86069a6e1b}
+      \strng{authorfullhashraw}{06095b488663f83adc504f86069a6e1b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2312.12268}
+      \field{title}{Web 3.0 and a Decentralized Approach to Education}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2312.12268
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2312.12268
+      \endverb
+    \endentry
+    \entry{germanaccreditation2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c3642588d21c40be808188df9a1cd0f}{%
+           family={{German Accreditation Council}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{fullhash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{fullhashraw}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{bibnamehash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{authorbibnamehash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{authornamehash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{authorfullhash}{9c3642588d21c40be808188df9a1cd0f}
+      \strng{authorfullhashraw}{9c3642588d21c40be808188df9a1cd0f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Accreditation in Germany under the Interstate Study Accreditation Treaty}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.akkreditierungsrat.de
+      \endverb
+      \verb{url}
+      \verb https://www.akkreditierungsrat.de
+      \endverb
+    \endentry
+    \entry{grech2017blockcerts}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=41c277cc9f7aab3421ba5c55ac40260e}{%
+           family={Grech},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f356aa1b18a34726933b23241b0bd76}{%
+           family={Camilleri},
+           familyi={C\bibinitperiod},
+           given={Anthony\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Joint Research Centre, European Commission}%
+      }
+      \strng{namehash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{fullhash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{fullhashraw}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{bibnamehash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{authorbibnamehash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{authornamehash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{authorfullhash}{926aae20709d8a5d2be6d49a1baee8a9}
+      \strng{authorfullhashraw}{926aae20709d8a5d2be6d49a1baee8a9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{JRC108255}
+      \field{title}{Blockchain in Education}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://publications.jrc.ec.europa.eu/repository/handle/JRC108255
+      \endverb
+      \verb{url}
+      \verb https://publications.jrc.ec.europa.eu/repository/handle/JRC108255
+      \endverb
+    \endentry
+    \entry{lee2024esgai}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=638329b18fa250e20edb46f05b297967}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sung\bibnamedelima Une},
+           giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aac214a58b2f585f7161faa09b117fcc}{%
+           family={Perera},
+           familyi={P\bibinitperiod},
+           given={Harsha},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ea6157adaa214ea9a0734bb53dd8492}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6527b9852f86da250f6c05f9a2ac4e6f}
+      \strng{fullhash}{8f2d55a8a44787fb1face46e24ff942c}
+      \strng{fullhashraw}{8f2d55a8a44787fb1face46e24ff942c}
+      \strng{bibnamehash}{8f2d55a8a44787fb1face46e24ff942c}
+      \strng{authorbibnamehash}{8f2d55a8a44787fb1face46e24ff942c}
+      \strng{authornamehash}{6527b9852f86da250f6c05f9a2ac4e6f}
+      \strng{authorfullhash}{8f2d55a8a44787fb1face46e24ff942c}
+      \strng{authorfullhashraw}{8f2d55a8a44787fb1face46e24ff942c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2408.00965}
+      \field{title}{Integrating ESG and AI: A Comprehensive Responsible AI Assessment Framework}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2408.00965
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2408.00965
+      \endverb
+    \endentry
+    \entry{okubo2025cime}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9b72d23c499d8da3cb1e70f68d435751}{%
+           family={Okubo},
+           familyi={O\bibinitperiod},
+           given={Tomoko},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {OECD Publishing}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{fullhash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{fullhashraw}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{bibnamehash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{authorbibnamehash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{authornamehash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{authorfullhash}{9b72d23c499d8da3cb1e70f68d435751}
+      \strng{authorfullhashraw}{9b72d23c499d8da3cb1e70f68d435751}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{325}
+      \field{title}{Collective Intelligence Model for Education (CIME)}
+      \field{type}{OECD Education Working Papers}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1787/c673cc25-en
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1787/c673cc25-en
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1787/c673cc25-en
+      \endverb
+    \endentry
+    \entry{okubo2023aiscoring}{report}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=9b72d23c499d8da3cb1e70f68d435751}{%
+           family={Okubo},
+           familyi={O\bibinitperiod},
+           given={Tomoko},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59ee2f5b0d0fc08e6a1ab63259d3bce0}{%
+           family={Watanabe},
+           familyi={W\bibinitperiod},
+           given={Masanori},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e0e5e6f3e34de85b2e2f4c09ea39be2}{%
+           family={Yamaguchi},
+           familyi={Y\bibinitperiod},
+           given={Hiroaki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afc1f93f9179b3717ffed5bff8db1c19}{%
+           family={Hasegawa},
+           familyi={H\bibinitperiod},
+           given={Yuki},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {OECD Publishing}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{5db4f619d87a652b8fa0b006afe489d9}
+      \strng{fullhash}{f03a557f3916a577e55fa14469f09c9a}
+      \strng{fullhashraw}{f03a557f3916a577e55fa14469f09c9a}
+      \strng{bibnamehash}{f03a557f3916a577e55fa14469f09c9a}
+      \strng{authorbibnamehash}{f03a557f3916a577e55fa14469f09c9a}
+      \strng{authornamehash}{5db4f619d87a652b8fa0b006afe489d9}
+      \strng{authorfullhash}{f03a557f3916a577e55fa14469f09c9a}
+      \strng{authorfullhashraw}{f03a557f3916a577e55fa14469f09c9a}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Available from: https://doi.org/10.1787/9918e1fb-en}
+      \field{number}{287}
+      \field{title}{AI scoring for international large-scale assessments using a deep learning model and multilingual data}
+      \field{type}{OECD Education Working Papers}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1787/9918e1fb-en
+      \endverb
+    \endentry
+    \entry{perera2024esgrai}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aac214a58b2f585f7161faa09b117fcc}{%
+           family={Perera},
+           familyi={P\bibinitperiod},
+           given={Harsha},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=638329b18fa250e20edb46f05b297967}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sung\bibnamedelima Une},
+           giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{fullhash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{fullhashraw}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{bibnamehash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{authorbibnamehash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{authornamehash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{authorfullhash}{be2f3c034f77faec3b54a36e52939c10}
+      \strng{authorfullhashraw}{be2f3c034f77faec3b54a36e52939c10}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2409.10520}
+      \field{title}{Achieving Responsible AI through ESG: Insights and Recommendations from Industry Engagement}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2409.10520
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2409.10520
+      \endverb
+    \endentry
+    \entry{eu2020taxonomy}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{EU Regulation}
+      \field{note}{Applicable to financial and non-financial reporting}
+      \field{title}{Regulation (EU) 2020/852 on the Establishment of a Framework to Facilitate Sustainable Investment (EU Taxonomy Regulation)}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2020/852/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2020/852/oj
+      \endverb
+    \endentry
+    \entry{eu2022dora}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2022/2554 on Digital Operational Resilience for the Financial Sector (DORA)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554
+      \endverb
+    \endentry
+    \entry{eu2023mica}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2023/1114 on Markets in Crypto-Assets (MiCA)}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114
+      \endverb
+    \endentry
+    \entry{eu2013crr}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms (CRR)}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575
+      \endverb
+    \endentry
+    \entry{rodriguez2025abcd}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3bc8693f80616f8489c4f1031e84138d}{%
+           family={Rodriguez},
+           familyi={R\bibinitperiod},
+           given={Joel\bibnamedelimb Mark\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=897feddd2c931526a3033191a49660fb}{%
+           family={Austria},
+           familyi={A\bibinitperiod},
+           given={Genesis\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfbb2cd6aa3f45f698d11d80e16b6be8}{%
+           family={Millar},
+           familyi={M\bibinitperiod},
+           given={Glen\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee02cb49fb80a077dcce1e8a6cb8ed12}
+      \strng{fullhash}{46c48081b12d7f7172ca0d16acf244c7}
+      \strng{fullhashraw}{46c48081b12d7f7172ca0d16acf244c7}
+      \strng{bibnamehash}{46c48081b12d7f7172ca0d16acf244c7}
+      \strng{authorbibnamehash}{46c48081b12d7f7172ca0d16acf244c7}
+      \strng{authornamehash}{ee02cb49fb80a077dcce1e8a6cb8ed12}
+      \strng{authorfullhash}{46c48081b12d7f7172ca0d16acf244c7}
+      \strng{authorfullhashraw}{46c48081b12d7f7172ca0d16acf244c7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2503.05722}
+      \field{title}{The Role of AI, Blockchain, Cloud, and Data (ABCD) in Enhancing Learning Assessments of College Students}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2503.05722
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2503.05722
+      \endverb
+    \endentry
+    \entry{sun2021ernie3}{misc}{}{}
+      \name{author}{22}{}{%
+        {{un=0,uniquepart=base,hash=17b6a43f5598c7efd897f9d254090fdd}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11599e8d7d5a35b7e266b6ded2ad4abe}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shuohuan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=573e51b4603498ab07adb0e986bd2acf}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Shikun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c4edff3923cadc3dab73c650ddaa6f8}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Siyu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ce296e2ac0d225129d8fcdbf18fbbbc}{%
+           family={Pang},
+           familyi={P\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16d38314451d0cf889a05fa65836309b}{%
+           family={Shang},
+           familyi={S\bibinitperiod},
+           given={Junyuan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61fac4d57e832c0a0a325948f8f805a9}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jiaxiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa032536dad497b014112c5be18da45b}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xuyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a0e5a3eefe6f6cf2565cf6746b7aa9a}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yanbin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3598c3bc0ebb61a06ff5015ffb15de9}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yuxiang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fbe8f2b7faec97fb60be9d0f2d40264}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Weixin},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe41924b320b8bbfddec0b28286ea6df}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Zhihua},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f78b15a1bdb30d06a4d409dadf370ba8}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Weibao},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=860285407f5f2e2f5f1a498344a2383a}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Jianzhong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2727d53a958b3aa156f3055a318da13f}{%
+           family={Shang},
+           familyi={S\bibinitperiod},
+           given={Zhizhou},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5918631c2d1cdd4eaddbfc27a01281ae}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0e0d23e2d09e45e6f51cc2bcea6d9f9}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d16f1c9da9bd6a7a8a510900c238b98}{%
+           family={Ouyang},
+           familyi={O\bibinitperiod},
+           given={Xuan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=872162d8379d299466fdf1db61807791}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Dianhai},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d761d577d421d6a0566473ae6b8b342f}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32cdecf5b1a19aa36ab641b9d9a3cc04}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Hua},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71e226050f533b77aad3b866c1b7ef0a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haifeng},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a3fba728653ba3d86c488decf1214c47}
+      \strng{fullhash}{1a5d366685bec43346adb00e17fe61d8}
+      \strng{fullhashraw}{1a5d366685bec43346adb00e17fe61d8}
+      \strng{bibnamehash}{972e6a74fcd597471b89b3991e45b672}
+      \strng{authorbibnamehash}{972e6a74fcd597471b89b3991e45b672}
+      \strng{authornamehash}{a3fba728653ba3d86c488decf1214c47}
+      \strng{authorfullhash}{1a5d366685bec43346adb00e17fe61d8}
+      \strng{authorfullhashraw}{1a5d366685bec43346adb00e17fe61d8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{arXiv preprint arXiv:2107.02137}
+      \field{title}{ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2107.02137
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2107.02137
+      \endverb
+    \endentry
+    \entry{aaq2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a4e9e9ca4a44cf00d1868afd3e5c596}{%
+           family={{Swiss Agency of Accreditation and Quality Assurance (AAQ)}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{fullhash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{fullhashraw}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{bibnamehash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{authorbibnamehash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{authornamehash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{authorfullhash}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \strng{authorfullhashraw}{7a4e9e9ca4a44cf00d1868afd3e5c596}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Accreditation and Quality Assurance in Swiss Higher Education}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://aaq.ch/en
+      \endverb
+      \verb{url}
+      \verb https://aaq.ch/en
+      \endverb
+    \endentry
+    \entry{heda2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=948f882b7940be41c08133779fe95bea}{%
+           family={{Swiss Confederation}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{948f882b7940be41c08133779fe95bea}
+      \strng{fullhash}{948f882b7940be41c08133779fe95bea}
+      \strng{fullhashraw}{948f882b7940be41c08133779fe95bea}
+      \strng{bibnamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorbibnamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authornamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorfullhash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorfullhashraw}{948f882b7940be41c08133779fe95bea}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Funding and Coordination of the Swiss Higher Education Sector (HEdA)}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://lex.weblaw.ch/lex.php?norm_id=414.20&source=sr&lex_id=11863#art_4
+      \endverb
+      \verb{url}
+      \verb https://lex.weblaw.ch/lex.php?norm_id=414.20&source=sr&lex_id=11863#art_4
+      \endverb
+    \endentry
+    \entry{finma2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=919ff9dc873aaed1adf9ad9ea3588c20}{%
+           family={{Swiss Financial Market Supervisory Authority (FINMA)}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{fullhash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{fullhashraw}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{bibnamehash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{authorbibnamehash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{authornamehash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{authorfullhash}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \strng{authorfullhashraw}{919ff9dc873aaed1adf9ad9ea3588c20}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FINMA Official Portal}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.finma.ch/en/
+      \endverb
+      \verb{url}
+      \verb https://www.finma.ch/en/
+      \endverb
+    \endentry
+    \entry{wang2021zerolabel}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e0662b7b8be5a7a0b1581114b2c86f34}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zirui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c37c105de9c6904a9ee348d6f10c603f}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Adams\bibnamedelima Wei},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=199f475d073184300c78ea1ea7d001e1}{%
+           family={Firat},
+           familyi={F\bibinitperiod},
+           given={Orhan},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2923de2da7f9b32b957552e414b6bc16}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{51c72de9785f95f6dd24562f9801388f}
+      \strng{fullhash}{b12606f739717a5fd97c7532db66b4d0}
+      \strng{fullhashraw}{b12606f739717a5fd97c7532db66b4d0}
+      \strng{bibnamehash}{b12606f739717a5fd97c7532db66b4d0}
+      \strng{authorbibnamehash}{b12606f739717a5fd97c7532db66b4d0}
+      \strng{authornamehash}{51c72de9785f95f6dd24562f9801388f}
+      \strng{authorfullhash}{b12606f739717a5fd97c7532db66b4d0}
+      \strng{authorfullhashraw}{b12606f739717a5fd97c7532db66b4d0}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{arXiv preprint arXiv:2109.09193}
+      \field{title}{Towards Zero-Label Language Learning}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2109.09193
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2109.09193
+      \endverb
+    \endentry
+    \entry{xue2020mt5}{misc}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=144676bc232b516256fd41200c09d416}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Linting},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a8ed325a5622cf4ec06f17777376a1b}{%
+           family={Constant},
+           familyi={C\bibinitperiod},
+           given={Noah},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=243c03e5ae8031582d6af9fcbc70f629}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a77438e51ab971039d957f4d8d62ebd}{%
+           family={Kale},
+           familyi={K\bibinitperiod},
+           given={Mihir},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fdea7728f40679d54135ffed015aec3}{%
+           family={Al-Rfou},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Rami},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8d53c5e69689a853012ba64115a490f}{%
+           family={Siddhant},
+           familyi={S\bibinitperiod},
+           given={Aditya},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21bfabfdcd37a9f9f2e4c25b05f8184f}{%
+           family={Barua},
+           familyi={B\bibinitperiod},
+           given={Aditya},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81a5a94e2388c149a73a86381db45e07}{%
+           family={Raffel},
+           familyi={R\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aef8c1534449c0ecd4e1b95a02de5fa0}
+      \strng{fullhash}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \strng{fullhashraw}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \strng{bibnamehash}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \strng{authorbibnamehash}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \strng{authornamehash}{aef8c1534449c0ecd4e1b95a02de5fa0}
+      \strng{authorfullhash}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \strng{authorfullhashraw}{fbd258dd4f0798fffc7fd2f31e0d38f5}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{arXiv preprint arXiv:2010.11934}
+      \field{title}{mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2010.11934
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2010.11934
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
